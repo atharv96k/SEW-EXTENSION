@@ -1,5 +1,6 @@
-# Smart Email Writer
-
+<div align="center" >
+      <img src="img/SEW_LOGO.png" alt="Smart Email Writer" width="720" />
+</div>
 Smart Email Writer is a Chrome Extension that helps users write email replies faster and more effectively directly within Gmail.
 
 It uses AI to understand the context of an email and generate a natural, relevant reply that matches the communication style of the original message.
